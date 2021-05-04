@@ -56,6 +56,9 @@ public class LevelEditorScene extends Scene {
             System.out.println(glGetShaderInfoLog(vertexID, len));
             assert false : "";
         }
+        else {
+            System.out.println("Vertex shader compilation successful");
+        }
     }
 
     @Override
