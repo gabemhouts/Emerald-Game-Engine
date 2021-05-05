@@ -1,16 +1,16 @@
 emerald/KeyListener.java
  emerald.KeyListener
-emerald/LevelEditorScene.java
- emerald.LevelEditorScene
+emerald/Scene.java
+ emerald.Scene
 util/Time.java
  util.Time
 emerald/MouseListener.java
  emerald.MouseListener
-emerald/Scene.java
- emerald.Scene
 Main.java
  Main
-emerald/Window.java
- emerald.Window
 emerald/LevelScene.java
  emerald.LevelScene
+emerald/Window.java
+ emerald.Window
+emerald/LevelEditorScene.java
+ emerald.LevelEditorScene
